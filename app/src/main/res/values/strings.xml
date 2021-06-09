@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CoughC19</string>
+    <string name="welcome">Welcome!</string>
+    <string name="diagnostic_here">Diagnostic Here!</string>
+    <string name="explain">This application helps you to detect COVID-19 early.</string>
+    <string name="command">Choose one what do you need</string>
+    <string name="detect_cough">Detect Cough</string>
+    <string name="how_to_use">How to use?</string>
+    <string name="hello">Hello,</string>
+    <string name="info">info</string>
+    <string name="press">Press the mic button to test COVID-19</string>
+    <string name="faq">FAQ</string>
+    <string name="answer_faq">Answer FAQ</string>
+    <string name="arrow">arrow</string>
+    <string name="created">© B21-CAP0338</string>
+    <string name="mic">mic</string>
+    <string name="illustration_cough">illustration cough</string>
+    <string name="back">back</string>
+    <string name="cough_splash">cough_splash</string>
+    <string name="cough_c19">Cough-C19</string>
+    <string name="nomor_1">1.   First, if you feel your cough is different than usual, this app suits you.</string>
+    <string name="nomor_2">2.   Second, click the “Detect Cough” button on the main page. Then it will be redirected to the detection page.</string>
+    <string name="nomor_3">3.   Third, press the mic button and start recording your cough. Wait a while until the results come out</string>
+    <string name="nomor_4">4.   Enjoy using our app!</string>
+    <string name="answer_suspected">Sorry, you are <b> Identified </b> <br/> as suspected of being infected virus COVID-19. Don\'t panic! immediately check to the nearest hospital and isolate at home. Always wear a mask, keep your distance and wash your hands regularly.<br/><br/>Hope you get well soon! </string>
+    <string name="result">Result</string>
+    <string name="answer_dontIdentified">You are <b>Not Identified</b> <br/> as being infected by the virus COVID-19. Continue to apply health protocols to break the chain of COVID-19. <br/><br/>Keep Healthy!</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+</resources>
