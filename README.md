@@ -1,1 +1,3 @@
 # COUGH-C19
+
+COUGH-C19 is a team project created by my group in Bangkit Academy 2021. This project has a purpose to make a flexible and free COVID-19 detection android application based-on cough sound. Here, I as machine learning team, tried to make a model to classify COVID-19 into possitive and negative. I used coswara dataset that can be accessed here: https://github.com/iiscleap/Coswara-Data.git. Sadly, I didn't have enough time to segment cough sound, so the preprocessing only serve to sort out the data and implement statistical features. After that, I converted the model into TFLITE, so that my group member could deploy it to our Android apps.
